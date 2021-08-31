@@ -33,6 +33,6 @@ Jika berhasil maka anda bisa melihat isi **directory** dari **remote server**:
 Agar bisa melakukan perubahan pada **directory**, anda perlu login sebagai root untuk memberikan **permission** menggunakan perintah :
 
 ```bash
-$ chown -R .
+$ chown -R ubuntu .
 ```
 
