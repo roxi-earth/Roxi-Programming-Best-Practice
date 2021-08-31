@@ -8,3 +8,17 @@ Selanjutnya tekan **CTRL+SHIFT+P** pilih **Open SSH Configuration File**:
 
 <img src="../Remote Development Using SSH/Remote-SSH-Config.png" style="zoom:100%;" />
 
+Setelah itu pilih lokasi konfigurasi file anda :
+
+<img src="../Remote Development Using SSH/Remote-SSH-Configfile.png" style="zoom:100%;" />
+
+Isi konfigurasi sebagai berikut :
+
+```bash
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host aws-ec2
+    HostName ec2-18-140-88-174.ap-southeast-1.compute.amazonaws.com
+    User ubuntu
+    IdentityFile F:\The-DevOps-Standard-Roxi\security\KeyForDevelopment.pem
+```
+
