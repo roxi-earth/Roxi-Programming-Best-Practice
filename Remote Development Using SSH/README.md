@@ -29,3 +29,10 @@ Setelah itu tekan kembali **CTRL+SHIFT+P** pilih Connect to Host... :
 Jika berhasil maka anda bisa melihat isi **directory** dari **remote server**:
 
 <img src="../Remote Development Using SSH/Remote-SSH-Success.png" style="zoom:100%;" />
+
+Agar bisa melakukan perubahan pada **directory**, anda perlu login sebagai root untuk memberikan **permission** menggunakan perintah :
+
+```bash
+$ chown -R .
+```
+
