@@ -14,7 +14,7 @@
 
 2. After open the application, click on **Open Connection**.
 
-![open-connection.png](open-connection.png)
+![open-connection.PNG](open-connection.PNG)
 
 3. Click Dropdown Options **FTP (File Transfer Protocol)** and choose **Amazon S3**.
 
@@ -24,4 +24,4 @@
 
 5. Click **Connect**, and now you are connected if your credentials was right.
 
-![connected.png](connected.png)
+![connected.PNG](connected.PNG)
