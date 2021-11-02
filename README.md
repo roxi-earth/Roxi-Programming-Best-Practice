@@ -8,6 +8,7 @@
 
 - [Remote Development Using SSH](https://github.com/roxi-earth/Roxi-Programming-Best-Practice/blob/main/Remote%20Development%20Using%20SSH/README.md)
 - [Cyberduck - Open-source client for FTP and SFTP, WebDAV, and cloud storage](Cyberduck/README.md)
+- [Git - Issue & PR Templates](Git/Templates/README.md)
 - Redis In-Memory Caching
 
 ## Secure Coding
